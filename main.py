@@ -29,4 +29,4 @@ def generate_map(place, longitude, latitude, url):
 
 
 get_data(api)
-m.save("map.html")
+m.save("index.html")
